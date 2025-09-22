@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "projects"
             }
           }
         ]
@@ -168,8 +168,12 @@
   },
   "active": "bd0ed1b367eaebe8",
   "lastOpenFiles": [
-    "ideas.md",
+    "opinions.md",
+    "projects.md",
+    "go-resources.md",
     "index.md",
+    "dont-solve-problems-you-dont-have.md",
+    "ideas.md",
     "Untitled.md",
     "Untitled.base"
   ]
