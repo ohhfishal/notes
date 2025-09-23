@@ -1,5 +1,3 @@
-Welcome to my digital garden!
+Welcome to my [digital garden](https://joelhooks.com/digital-garden/)!
 
-## Website TODO
-- [ ] Configure DNS to work
-- [ ] 
+Take a look at some [[projects|Projects]]. 

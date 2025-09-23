@@ -1,19 +1,19 @@
 ---
 title: Useful Resources
-date: "2025-05-24"
+date: 2025-05-24
 summary: Thing's I've read and found insightful / useful
-draft: true
+draft: false
 tags:
   - programming
 ---
 
 
-## Golang learning resources
+## Learning Golang 
 - [Go by Example](https://gobyexample.com/): General Go syntax and standard library.
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests): Test Driven Development with Go. A little opinionated (which is all  of go tbf). In general, Go's built in testing library is really solid.
 - [Go's Standard Library  Docs](https://pkg.go.dev/std): The Go team does a great job with their stdlib docs.
 
-## More "advanced" Go stuff
+### More "advanced" Go stuff
 - [Go Proverbs with Rob Pike](https://youtu.be/PAAkCSZUG1c?si=b_zjiQ_bAe6enDoG)
 
 <!-- more -->
