@@ -2,9 +2,9 @@
 title: Useful Resources
 date: 2025-05-24
 summary: Thing's I've read and found insightful / useful
-draft: false
 tags:
   - programming
+  - golang
 ---
 
 
