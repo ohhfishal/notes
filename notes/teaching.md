@@ -1,12 +1,10 @@
 ---
 title: How I would teach to code
-date: "2025-02-23"
-summary: "Perspective on how to encourage learning."
+date: 2025-02-23
+description: Perspective on how to encourage learning.
 tags:
   - programming
   - teaching
-cover:
-  alt: "How I would teach to code"
 ---
 
 # How I would teach to code

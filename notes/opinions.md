@@ -1,8 +1,7 @@
 ---
 title: Strong Code Opinions
 date: "2025-02-23"
-summary: "Living log of what I think good code is"
-description: "Living log of what I think good code is"
+description: "Living log of what I think good code is."
 tags:
   - programming
 ShowToc: false

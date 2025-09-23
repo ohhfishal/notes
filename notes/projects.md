@@ -1,7 +1,8 @@
 ---
+title: Projects
+description: "Things I am proud of"
 tags:
   - programming
-title: Projects
 ---
 Here is a living list of things I am proud of:
 
