@@ -12,5 +12,5 @@ ShowToc: false
 3. Automate what's possible.
 4. Code is never correct the first time (Or the second).
 
-## As Proverbs
->     If its not committed, you have not committed.
+> [!quote] As Proverbs
+> 1. If its not committed, you have not committed.

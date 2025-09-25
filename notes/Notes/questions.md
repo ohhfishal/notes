@@ -2,7 +2,7 @@
 title: Questions
 description: Thoughts
 tags:
-  - thoughts
+  - notes
 ---
 Original Inspiration from [struthless](https://youtu.be/2n8W6CBxc64?si=OsdfTu0yn8EIVg1K).
 

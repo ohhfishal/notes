@@ -1,6 +1,9 @@
 ---
 title: Daily Questions
 description: App idea?
+tags:
+  - programming
+  - idea
 ---
 
 I recently wrote some [code](https://github.com/ohhfishal/daily-quest) to mess around with self hosting a website. An MVP that I could get done and mentally check of as a "completed" project. That as well as [[questions]] got me thinking about the idea of writing down thoughts, but also doing so in a way that could be shared by others. The original [Your Daily Quest](https://yourdaily.quest) was also inspired by app's like [Be Real](https://bereal.com/) and Wordle where its some app you interact with for a brief moment daily.
