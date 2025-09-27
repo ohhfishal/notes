@@ -27,7 +27,7 @@ Each assignment would be distributed as a repository with a `README.md` that des
 
 The reasoning behind this is to directly mirror how software is developed, which I see as the following:
 
-1. We use some kind of versioning control to host our code. 
+1. [[opinions#Code that is not checked into version control does not exist.|We use some kind of versioning control to host our code. ]]
 2. To make a new change, branch off from the source and make your changes.
 3. Once all changes are made and pass a suite of automated tests, merge in your changes.
 

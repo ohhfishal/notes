@@ -5,7 +5,6 @@ tags:
   - programming
 ---
 Here is a living list of things I am proud of:
-
 ## [Daily Quests](https://github.com/ohhfishal/daily-quest)
 Simple CRUD app that was mostly refining self-hosting an entire website.
 
