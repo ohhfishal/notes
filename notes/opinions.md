@@ -14,3 +14,8 @@ ShowToc: false
 
 > [!quote] As Proverbs
 > 1. If its not committed, you have not committed.
+> 2. The code of tomorrow tells of its today.
+> 3. If you do it twice, you'll do it thrice.
+> 4. At first you don't succeed. Try, try again.
+
+
