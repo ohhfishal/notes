@@ -21,7 +21,7 @@ ShowToc: false
 
 ## Instructions 
 1. Blend everything in a blender. Don't overblend, just long enough so everything is incorporated.
-2. Cook like waffles. May also cook like panckages.
+2. Cook like waffles. May also cook like pancakes.
 
 # Variants
 - Add in a 1/2 cup of pumpkin puree.
