@@ -20,5 +20,5 @@ description: Quotes I resonate with
 
 > When faced with a Xanatos Gambit the options are either to accept that the creator will get the upper hand and choose the outcome that is least beneficial to them, or to defeat them by finding a course that they didn't predict. 
 
-## The Pragmatic Programmer's  Martin Fowler
+## The Pragmatic Programmer's Martin Fowler
 > You can change your organization or change your organization
