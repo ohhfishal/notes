@@ -14,7 +14,7 @@ Computers use these bits (ones and zeroes) to encode information. For example, i
 
 So far, there is nothing special about `97` (internally remember its `01100001`). It could mean anything. The number of points someone got a test or the number of seconds since the last time a job came in. *Context changes what the numbers mean.* Let's add more context.
 
-Say our special number used a specific, agreed upon way of encoding itself as a character[^2] called [UTF-8](https://en.wikipedia.org/wiki/UTF-8). For this simple example, you can imagine a UTF-8 as a series of one or more 8-digits segments (a unit we call a byte). Each byte has two components a prefix-code and a payload.
+Say our special number used a specific, agreed upon way of encoding itself as a character[^2] called [UTF-8](https://en.wikipedia.org/wiki/UTF-8). For this simple example, you can imagine a UTF-8 as a series of one or more 8-digits segments (a unit we call a byte). The first byte of a UTF-8 encoded character has two components a prefix-code and a payload.
 
 The prefix code is all leftmost digits of the first byte until the prefix contains a `0`, so for our example, it's just the leftmost `0`. If the first byte started with `11000110`, the prefix would be `110`. The following are all the valid prefixes and the number of bytes they use:
 - `0`: 1 byte
