@@ -3,12 +3,14 @@ title: Letter to the Non-Programmer
 summary: Explaining computers to non-computer people
 tags:
 ---
-	
+
 People in my life aren't programmers. They don't know the problems we solve and how we go about solving them. If you don't know what this coding stuff is this is for you. To best explain what we see, I think its easiest to start small and broaden our understanding together. 
 
 <!-- ## What is a computer? -->
 
-Computers use these bits (ones and zeroes) to encode information. For example, imagine the series of digits `01100001`. If we think about it as a "normal number" (what we call decimal numbers), 1100001 is a really big number, however that is not how computers read it. That series of bits is representing a [binary number](https://en.wikipedia.org/wiki/Binary_number) which is a way of counting using only two digits. To skim over the math of it, `01100001` represents the number `97`. We can add, subtract and do any other math we want on it. All data in a computer at the end of the day is represented by these binary numbers. The CPU is designed to do math with these numbers. Memory is designed to store and retrieve these numbers.
+At the smallest level, a computer is 2 things. The first is a CPU which is a small calculator. It does math. Addition, subtraction, multiplication etc. The second part is memory. Memory is a big spreadsheet that holds numbers. Due to the electrical components that make up a computer[^1], numbers in a computer at the lowest level are stored as ones and zeroes we call bits.
+
+Computers use these bits (ones and zeroes) to encode information. For example, imagine the series of digits `01100001`. If we think about it as a "normal number" (what we call decimal numbers), 1100001 is a really big number, however that is not how computers see it. That series of bits is representing a [binary number](https://en.wikipedia.org/wiki/Binary_number) which is a way of counting using only two digits. To skim over the math of it, `01100001` represents the number `97`. We can add, subtract and do any other math we want on it. All data in a computer at the end of the day is represented by these binary numbers. The CPU is designed to do math with these numbers. Memory is designed to store and retrieve these numbers.
 
 So far, there is nothing special about `97` (internally remember its `01100001`). It could mean anything. The number of points someone got a test or the number of seconds since the last time a job came in. *Context changes what the numbers mean.* Let's add more context.
 
@@ -39,4 +41,4 @@ That's what a computer is. We tell it to follow instructions and when it does th
 
 [^3]: Specifically lowercase "`a`". Uppercase "`A`" has its own, different encoding.
 
-	[^4]: Being a surface-level explanation of UTF-8, the earlier explanation simplifies the standard for only the provided examples. For example it was omitted that each byte after the first must begin with a `1` to communicate that it is a continuation byte. [[quotes#Never use a long word where a short one will do|Never use a long word where a short one will do.]] Speaking to non-technical people requires avoiding domain-specific complexity.
+[^4]: Being a surface-level explanation of UTF-8, the earlier explanation simplifies the standard for only the provided examples. For example it was omitted that each byte after the first must begin with a `1` to communicate that it is a continuation byte. [[quotes#Never use a long word where a short one will do|Never use a long word where a short one will do.]] Speaking to non-technical people requires avoiding domain-specific complexity.
