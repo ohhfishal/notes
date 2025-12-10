@@ -29,6 +29,7 @@ jobs:
       - name: Install Dependencies
         run: |
           cd quartz
+          npm install
           npm ci
       - name: Build Quartz
         run: |
