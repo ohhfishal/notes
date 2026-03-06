@@ -1,6 +1,9 @@
-## Log TUI
-
-#programming #idea
+---
+title: Log TUI
+tags:
+  - programming
+  - idea
+---
 
 Lazygit but for logs. 
 
