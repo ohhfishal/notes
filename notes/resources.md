@@ -18,6 +18,13 @@ tags:
 
 <!-- more -->
 
+## Other Resources
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- *Kubernetes in Action* by Marko Luksa
+- Just read the docs.
+
+## Random
+- [Regex License](https://regexlicensing.org/)
 
 ## Q & A (Obviously my opinion)
 
