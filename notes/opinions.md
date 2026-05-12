@@ -12,7 +12,7 @@ Inspired by [Go Proverbs](https://go-proverbs.github.io/) and [The Art of Unix P
 ## [Legacy code is code without tests](https://understandlegacycode.com/blog/what-is-legacy-code-is-it-code-without-tests/).
 ## Automate what's possible.
 ## Code is never correct the first time (Or the second).
-## Strive for simplicity. 
+## Strive for simple.
 
 > [!quote] As Proverbs
 > 1. If its not committed, you have not committed.
