@@ -12,11 +12,13 @@ Inspired by [Go Proverbs](https://go-proverbs.github.io/) and [The Art of Unix P
 ## [Legacy code is code without tests](https://understandlegacycode.com/blog/what-is-legacy-code-is-it-code-without-tests/).
 ## Automate what's possible.
 ## Code is never correct the first time (Or the second).
+## Strive for simplicity. 
 
 > [!quote] As Proverbs
 > 1. If its not committed, you have not committed.
 > 2. The code of tomorrow tells of its today.
 > 3. If you do it twice, you'll do it thrice.
 > 4. At first you don't succeed. Try, try again.
+> 5. Less moving parts moves wrong less.
 
 
